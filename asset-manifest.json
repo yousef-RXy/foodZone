@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/foodZone/static/css/main.a7d54a95.css",
-    "main.js": "/foodZone/static/js/main.87ccbb6c.js",
+    "main.js": "/foodZone/static/js/main.66c2b914.js",
     "index.html": "/foodZone/index.html",
     "main.a7d54a95.css.map": "/foodZone/static/css/main.a7d54a95.css.map",
-    "main.87ccbb6c.js.map": "/foodZone/static/js/main.87ccbb6c.js.map"
+    "main.66c2b914.js.map": "/foodZone/static/js/main.66c2b914.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d54a95.css",
-    "static/js/main.87ccbb6c.js"
+    "static/js/main.66c2b914.js"
   ]
 }
